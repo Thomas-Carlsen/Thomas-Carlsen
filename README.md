@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Thomas-Carlsen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Thomas-Carlsen/Thomas-Carlsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like building things with code — web, mobile, backend, DevOps — wherever curiosity leads me. 🚀
+Drawn to exploring new tools, technologies, and ways of coding — adding the best pieces to my toolbox. 🛠️
+A bit like digital LEGO. 🧱
